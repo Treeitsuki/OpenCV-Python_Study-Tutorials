@@ -1,3 +1,5 @@
 /venv_opencv/
 /__pycache__/
 /checkpoints/
+*.png
+*.jpg
