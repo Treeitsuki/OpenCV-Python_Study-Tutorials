@@ -1,3 +1,3 @@
 /venv_opencv/
-*.png
-*.jpg
+.png
+.jpg

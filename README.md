@@ -2,7 +2,7 @@
 <h1>
   <br>
   <a href="https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
-  "><img src="Images/opencv_logo.jpg" alt="ACIDS" width="200"></a>
+  "><img src="Images/opencv_logo.jpg" alt="OpenCV" width="200"></a>
   <br>
   OpenCV-Python_Tutorials
   <br>
